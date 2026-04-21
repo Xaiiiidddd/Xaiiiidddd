@@ -1,89 +1,114 @@
-# Zaid Ali 👋
-Software Engineer • Full‑Stack Developer • AI/ML Enthusiast
+# <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40"/> Zaid Ali 👋  
+### 🚀 Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
 
-A B.Tech (CSE) student at KIIT University (expected 2027) focused on building reliable, maintainable, and user‑friendly web applications and machine learning solutions. I enjoy turning ideas into production-ready software, learning new technologies, and contributing to open source.
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</p>
 
----
-
-## 🔎 Professional Summary
-- Strong foundation in Data Structures, Algorithms, and software engineering principles.
-- Practical experience building responsive web applications and integrating backends.
-- Interested in Full-Stack development, Cloud-native apps, and applied ML.
-- Quick learner with a track record of shipping features and working in teams.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;AI%2FML+Explorer+🤖;Future+Software+Engineer;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 🔥 About Me  
 
-- Languages: C, C++, Java, Python, JavaScript (ES6+)
-- Frontend: HTML5, CSS3, React, Bootstrap/Tailwind
-- Backend & Tools: Node.js, Express, REST APIs, Git, VS Code
-- Data & ML: NumPy, Pandas, scikit-learn (learning)
-- Databases: MySQL, basic MongoDB
-- Concepts: OOP, Design Patterns, System Design fundamentals, DBMS
-
----
-
-## 💼 Experience
-
-### Web Development Intern — XYZ Tech Solutions
-May 2025 – July 2025
-- Built responsive UI components and landing pages using HTML/CSS/JavaScript and React.
-- Integrated frontend with Node.js backend APIs, improving data flow and error handling.
-- Optimized UI responsiveness and page load performance; collaborated on QA and deployment.
-- Adopted git branching workflows and participated in code reviews.
+🎓 B.Tech (CSE) student at **KIIT University** (Expected 2027)  
+💻 Passionate about **Full-Stack Development, AI/ML, and Cloud Technologies**  
+⚡ Focused on building **scalable, user-friendly, and production-ready applications**  
+🚀 Love transforming ideas into impactful digital products  
+🌱 Constantly learning and improving every day  
 
 ---
 
-## 💡 Selected Projects
-(Replace placeholders with GitHub links and short outcomes)
+## 🛠 Tech Stack  
 
-- Portfolio Website — Modern responsive personal site built with React. (link)
-- E‑commerce UI Prototype — Product listing, cart flow, and checkout UI. (link)
-- Algorithm Visualizer — Interactive tool to visualize sorting/search algorithms. (link)
-
----
-
-## 🏆 Achievements & Activities
-- Winner — College Hackathon 2025
-- Top 10% — KIITEE Mock Test Series
-- Organized and led coding events at university tech fest
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,html,css,mysql,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 🎓 Education
-KIIT University — B.Tech, Computer Science Engineering  
-CGPA: 8.5/10 | Expected Graduation: 2027
+## 💼 Experience  
+
+### 💻 Web Development Intern — XYZ Tech Solutions  
+📅 May 2025 – July 2025  
+
+✔ Built responsive UI components using HTML, CSS, JavaScript & React  
+✔ Integrated frontend with backend APIs using Node.js  
+✔ Improved performance, responsiveness & user experience  
+✔ Worked in team environment with Git workflows & code reviews  
 
 ---
 
-## 🌍 Languages
-English, Hindi, Urdu, Arabic, French
+## 🚀 Featured Projects  
+
+| Project | Description |
+|--------|-------------|
+| 🌐 Portfolio Website | Advanced personal portfolio using React |
+| 🛒 E-commerce UI | Shopping cart + checkout interface |
+| 📊 Algorithm Visualizer | Sorting/searching visualizer |
+| 🤖 AI Assistant App | Smart chatbot powered app |
 
 ---
 
-## 📫 Contact
-- Email: xaidali12345678@gmail.com  
-- Phone: +91 97094 09792  
-- Location: Bhubaneswar, Odisha, India
+## 🏆 Achievements  
+
+🏅 Winner — College Hackathon 2025  
+📈 Top 10% — KIITEE Mock Test Series  
+🎤 Organized coding events in university tech fest  
 
 ---
 
-## 🚀 Goals & Interests
-- Short-term: Contribute to open-source, build scalable full-stack apps, and strengthen ML knowledge.
-- Long-term: Work on impactful software products involving AI and cloud technologies.
+## 🎓 Education  
+
+**KIIT University**  
+B.Tech in Computer Science Engineering  
+📊 CGPA: **8.5/10**  
+📅 Expected Graduation: **2027**  
 
 ---
 
-## 🤝 Open to
-Internships, part-time roles, collaborative open-source projects, and mentorship opportunities.
+## 🌍 Languages  
+
+🇬🇧 English | 🇮🇳 Hindi | 🇸🇦 Arabic | 🇫🇷 French | 🇵🇰 Urdu  
 
 ---
 
-## 📌 How to contribute
-Pull requests to improve this README (content, links, formatting) are welcome. If you want me to add badges, a projects table, or GitHub stats/cards, tell me which items to include.
+## 📈 GitHub Stats  
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ⚖️ License
-This README is available under the MIT License. Feel free to reuse and adapt.
+## 🐍 Contribution Snake  
+
+<p align="center">
+<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+📧 **Email:** xaidali12345678@gmail.com  
+📱 **Phone:** +91 97094 09792  
+📍 **Location:** Bhubaneswar, Odisha, India  
+
+---
+
+## 🎯 Current Goals  
+
+✅ Contribute to Open Source  
+✅ Build scalable Full-Stack Apps  
+✅ Master AI/ML  
+✅ Become Industry-Level Software Engineer  
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
