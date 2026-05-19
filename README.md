@@ -13,7 +13,7 @@
 
 ## 🔥 About Me  
 
-🎓 B.Tech (CSE) student at **KIIT University** (Expected 2027)  
+🎓 B.Tech (CSE) student at **KIIT University** (Expected 2029)  
 💻 Passionate about **Full-Stack Development, AI/ML, and Cloud Technologies**  
 ⚡ Focused on building **scalable, user-friendly, and production-ready applications**  
 🚀 Love transforming ideas into impactful digital products  
@@ -52,26 +52,18 @@
 
 ---
 
-## 🏆 Achievements  
-
-🏅 Winner — College Hackathon 2025  
-📈 Top 10% — KIITEE Mock Test Series  
-🎤 Organized coding events in university tech fest  
-
----
-
 ## 🎓 Education  
 
 **KIIT University**  
 B.Tech in Computer Science Engineering  
 📊 CGPA: **8.5/10**  
-📅 Expected Graduation: **2027**  
+📅 Expected Graduation: **2029**  
 
 ---
 
 ## 🌍 Languages  
 
-🇬🇧 English | 🇮🇳 Hindi | 🇸🇦 Arabic | 🇫🇷 French | 🇵🇰 Urdu  
+🇬🇧 English | 🇮🇳 Hindi | 🇸🇦 Arabic | 🇫🇷 French 
 
 ---
 
