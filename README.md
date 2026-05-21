@@ -1,5 +1,5 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40"/> Zaid Ali 👋  
-### 🚀 Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
+### Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
@@ -11,9 +11,9 @@
 
 ---
 
-## 🔥 About Me  
+##  About Me  
 
-🎓 B.Tech (CSE) student at **KIIT University** (Expected 2029)  
+🎓 B.Tech (CSE(AI/ML)) student at **KIIT University** (Expected 2029)  
 💻 Passionate about **Full-Stack Development, AI/ML, and Cloud Technologies**  
 ⚡ Focused on building **scalable, user-friendly, and production-ready applications**  
 🚀 Love transforming ideas into impactful digital products  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,html,css,mysql,mongodb,git,github,vscode" />
@@ -29,45 +29,29 @@
 
 ---
 
-## 💼 Experience  
+## Experience  
 
-### 💻 Web Development Intern — XYZ Tech Solutions  
-📅 May 2025 – July 2025  
+### 💻Data Science Intern — Thiranex 
+📅 May 2026 – June 2026 
 
-✔ Built responsive UI components using HTML, CSS, JavaScript & React  
-✔ Integrated frontend with backend APIs using Node.js  
-✔ Improved performance, responsiveness & user experience  
-✔ Worked in team environment with Git workflows & code reviews  
 
----
-
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 | Project | Description |
 |--------|-------------|
 | 🌐 Portfolio Website | Advanced personal portfolio using React |
-| 🛒 E-commerce UI | Shopping cart + checkout interface |
 | 📊 Algorithm Visualizer | Sorting/searching visualizer |
 | 🤖 AI Assistant App | Smart chatbot powered app |
 
 ---
 
-## 🎓 Education  
-
-**KIIT University**  
-B.Tech in Computer Science Engineering  
-📊 CGPA: **8.5/10**  
-📅 Expected Graduation: **2029**  
-
----
-
-## 🌍 Languages  
+## Languages  
 
 🇬🇧 English | 🇮🇳 Hindi | 🇸🇦 Arabic | 🇫🇷 French 
 
 ---
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -76,7 +60,7 @@ B.Tech in Computer Science Engineering
 
 ---
 
-## 🐍 Contribution Snake  
+## Contribution Snake  
 
 <p align="center">
 <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
@@ -84,20 +68,11 @@ B.Tech in Computer Science Engineering
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 
 📧 **Email:** xaidali12345678@gmail.com  
 📱 **Phone:** +91 97094 09792  
 📍 **Location:** Bhubaneswar, Odisha, India  
-
----
-
-## 🎯 Current Goals  
-
-✅ Contribute to Open Source  
-✅ Build scalable Full-Stack Apps  
-✅ Master AI/ML  
-✅ Become Industry-Level Software Engineer  
 
 ---
 
