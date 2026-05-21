@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40"/> Zaid Ali 👋  
+# <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40"/> Zaid Ali  
 ### Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
 
 <p align="center">
@@ -51,22 +51,6 @@
 
 ---
 
-## GitHub Stats  
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Contribution Snake  
-
-<p align="center">
-<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## Connect With Me  
 
