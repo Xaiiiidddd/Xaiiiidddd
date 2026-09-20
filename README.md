@@ -1,4 +1,4 @@
-<span style="font-size: 2rem;">Zaid Ali</span>
+<span style="font-size: 5rem;">*Zaid Ali*</span>
 ### Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
 
 <p align="center">
