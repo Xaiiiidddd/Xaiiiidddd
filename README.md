@@ -1,4 +1,4 @@
-Zaid Ali  
+*Zaid Ali* 
 ### Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
 
 <p align="center">
