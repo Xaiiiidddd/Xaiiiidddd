@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40"/> Zaid Ali  
+Zaid Ali  
 ### Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
 
 <p align="center">
