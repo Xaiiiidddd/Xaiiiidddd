@@ -1,8 +1,6 @@
 <p align="center">
-  <samp>
     <b style="font-size: 100px;"><h1><em>Zaid Ali</em></h1></b>
-    <h3>Aspiring Software Engineer • Full-Stack AI Engineer</h3>
-  </samp>
+    <h3>Aspiring Software Engineer • AI Full-Stack Developer • Machine Learning</h3>
 </p> 
 
 <p align="center">
