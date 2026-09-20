@@ -1,5 +1,9 @@
-<span style="font-size: 10rem;">*Zaid Ali*</span>
-### Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast  
+<p align="center">
+  <samp>
+    <b style="font-size: 100px;"><h1>Zaid Ali</h1></b>
+    <h3>Aspiring Software Engineer • Full-Stack Developer • AI/ML Enthusiast</h3>
+  </samp>
+</p> 
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
